@@ -1,3 +1,8 @@
 Hello , this file is in git hub 
+<<<<<<< HEAD
 i am chnaging some contents in this file
 this is the 4th change 
+=======
+i am chnaging some contents in this file 
+this is the 3rd chnage in git hub
+>>>>>>> e20b425f3934c9e3af4433adbd7f394fd30f8995
