@@ -1,1 +1,22 @@
 
+<!DOCTYPE html>
+<!-- This Document demonstrates the Block Quotations -->
+<html lang = "en">
+    <head>
+        <title> Block Quotations </title>
+        <meta charset = "utf-8" />
+    </head>
+    <body>
+        <p>Prime Minister's remarks at BRICS Business Forum:</p>
+        <blockquote>
+			<p>
+               I am very happy to join the BRICS Business Forum.  
+			   The 11th BRICS Summit program has started with this forum. 
+			   I congratulate the President of Brazil,the organizers of this  
+			   forum and all the participants for making Business a priority.
+			   <q> Jai Hind </q>
+			</p> 
+        </blockquote>
+        <q> Long Live India! </q>
+     </body>
+</html>
